@@ -8,5 +8,7 @@ public static void main(String[] args) {
 	System.out.println("levelfirst");
 	System.out.println("adc go!!!");
 	System.out.println("dadadadada zou");
+	System.out.println("hahaha");
+	System.out.println("hehehehe");
 }
 }
